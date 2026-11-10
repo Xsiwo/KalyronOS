@@ -1,3 +1,1 @@
 # KalyronOS
-
-![KalyronOS](banner.png)
